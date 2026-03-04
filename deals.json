@@ -6,7 +6,7 @@
       "originalPrice": "$2,399.00",
       "discountedPrice": "$1,809.00",
       "couponDiscount": "Shopee Coupon -$260",
-      "link": "https://www.example.com/product4"
+      "link": ""
     },
     {
       "image": "./assets/product1.jpg",
@@ -14,7 +14,7 @@
       "originalPrice": "$358.00",
       "discountedPrice": "$233.00",
       "couponDiscount": "Shopee Coupon -$44.70",
-      "link": "https://www.example.com/product1"
+      "link": ""
     },
     {
       "image": "./assets/product8.jpg",
@@ -22,7 +22,7 @@
       "originalPrice": "$1,199.00",
       "discountedPrice": "$790.00",
       "couponDiscount": "Shopee Coupon -$115.00",
-      "link": "https://www.example.com/product8"
+      "link": ""
     },
     {
       "image": "./assets/product6.jpg",
@@ -30,7 +30,8 @@
       "originalPrice": "$1,459.00",
       "discountedPrice": "$1,105.99",
       "couponDiscount": "Shopee Coupon -$130.00",
-      "link": "https://www.example.com/product6"
+      "link": ""
     }
   ]
 }
+
