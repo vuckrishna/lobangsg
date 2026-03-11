@@ -1,7 +1,7 @@
 {
   "deals": [
     {
-      "image": "./assets/product4.jpg",
+      "image": "https://drive.google.com/file/d/1dP5YtcnlE8ZuCcLUoR6jtt0vH3eu806Y/view?usp=drive_link",
       "name": "Google Pixel 10 Pro Fold",
       "originalPrice": "$2,399.00",
       "discountedPrice": "$1,809.00",
@@ -34,4 +34,5 @@
     }
   ]
 }
+
 
