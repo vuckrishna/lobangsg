@@ -1,5 +1,11 @@
 Notes: 
 
+# 
+      "image": "https://drive.google.com/file/d/1dP5YtcnlE8ZuCcLUoR6jtt0vH3eu806Y/view?usp=drive_link",
+
+https://drive.google.com/thumbnail?id=1dP5YtcnlE8ZuCcLUoR6jtt0vH3eu806Y&sz=w1000
+
+
 Documenting the ShopeePal website building 
 
 Task 1: 
