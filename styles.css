@@ -91,6 +91,9 @@ body {
 @media (max-width: 640px) {
   .nav { flex-wrap: wrap; gap: 8px 0px; }
   .nav-links { width: 100%; justify-content: space-between; }
+  .logo-image { 
+    height: 50px;
+  }
 }
 
 /* Hamburger menu */
@@ -127,7 +130,7 @@ body {
   /* grid-template-columns: 1.2fr 1fr; */
   gap: 50px;
   align-items: center;
-  color: #0b1324;
+  color: #161f34;
 }
 
 .intro-image img {
@@ -139,7 +142,7 @@ body {
 
 
 .intro-text h1 { margin: 10px 0px 10px 0px; font-size: 2rem; }
-.intro-text p { margin: 10px 0; line-height: 1.6; font-size: 1.05rem; font-weight: bold; color: #0b1324;}
+.intro-text p { margin: 10px 0; line-height: 1.6; font-size: 1.05rem; font-weight: bold; color: #161f34;}
 
 @media (max-width: 900px) {
   .intro-content {
