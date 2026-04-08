@@ -1,19 +1,19 @@
 {
   "deals": [
     {
-      "image": "/assets/product4.jpg",
-      "name": "Google Pixel 10 Pro Fold",
-      "originalPrice": "$2,399.00",
-      "discountedPrice": "$1,809.00",
-      "couponDiscount": "Shopee Coupon -$260",
-      "link": ""
+      "image": "/assets/p9a.png",
+      "name": "Google Pixel 9a",
+      "originalPrice": "$799.00",
+      "discountedPrice": "$546.00",
+      "couponDiscount": "Store: -$199 | Shopee: -$24",
+      "link": "https://shopee.sg/Google-Pixel-9a-128GB-256GB--i.454919755.29078467787?extraParams=%7B%22display_model_id%22%3A242798028753%2C%22model_selection_logic%22%3A3%7D"
     },
     {
-      "image": "/assets/product1.jpg",
-      "name": "Samsung A26",
-      "originalPrice": "$358.00",
-      "discountedPrice": "$233.00",
-      "couponDiscount": "Shopee Coupon -$44.70",
+      "image": "/assets/p10a.png",
+      "name": "Google Pixel 10a",
+      "originalPrice": "$799.00",
+      "discountedPrice": "$775.00",
+      "couponDiscount": "Shopee discount = -$24",
       "link": ""
     },
     {
